@@ -4,11 +4,12 @@ With over 5 years of experience in backend development, I specialize in:
 
 - **TypeScript** 🚀
 - **Node.js** 🔧
+- **Go**
+- **Dotnet**
+- **AWS**
 - **NestJS** 🌐
 - **Docker** 🐳
 - **Serverless**
-- **AWS**
-- **Go**
 - **Event driven architectures**
 
 I’m passionate about building scalable and efficient backend systems.
